@@ -1,12 +1,11 @@
 #include <stdio.h>
+
 /**
- *main -print string using printf
- *
- * Return : 0
-*/
-main(void)
+ * main - the containing function
+ * Return: 0 if succesfull
+ */
+int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,with proper grammar, but the outcome is a piece of art,"/n)
+        printf("with proper grammar, but the outcome is a piece of art,\n");
+        return (0);
 }
-
-
