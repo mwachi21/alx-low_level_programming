@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - the containing func
- * Return: 0 if no error
- */
+* main - the containing func
+* Return: 0 if no error
+*/
 int main(void)
 {
 printf("Size of a char: %d byte(s)\n", sizeof(char));
